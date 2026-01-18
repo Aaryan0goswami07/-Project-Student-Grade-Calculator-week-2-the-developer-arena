@@ -1,0 +1,60 @@
+txt
+STUDENT GRADE CALCULATOR - TEST CASES
+
+Test Case 1:
+Input:
+Name = Priya
+Marks = 95
+Expected:
+Grade = A
+Message = Excellent message shown
+
+Test Case 2:
+Input:
+Name = Rahul
+Marks = 85
+Expected:
+Grade = B
+Message = Very Good message shown
+
+Test Case 3:
+Input:
+Name = Neha
+Marks = 75
+Expected:
+Grade = C
+Message = Good effort message shown
+
+Test Case 4:
+Input:
+Name = Arjun
+Marks = 65
+Expected:
+Grade = D
+Message = Don't give up message shown
+
+Test Case 5:
+Input:
+Name = Karan
+Marks = 40
+Expected:
+Grade = F
+Message = Failure learning message shown
+
+Validation Test Case 6:
+Input:
+Marks = 120
+Expected:
+Program shows error and asks again
+
+Validation Test Case 7:
+Input:
+Marks = -5
+Expected:
+Program shows error and asks again
+
+Validation Test Case 8:
+Input:
+Marks = abc
+Expected:
+Program shows error and asks again
